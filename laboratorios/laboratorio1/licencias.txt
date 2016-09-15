@@ -5,6 +5,48 @@ Esta licencia es una Licencia de software libre permisiva lo que significa que i
 una excelente Compatibilidad de licencia. La licencia MIT permite reutilizar software dentro de Software propietario. Por otro lado, la licencia MIT es 
 compatible con muchas licencias Copyleft, como la GNU General Public License1 .
 
-El texto de la licencia no tiene copyright, lo que permite su modificación. No obstante esto, puede no ser recomendable e incluso muchas veces dentro del movimiento del software de código abierto desaconsejan el uso de este texto para una licencia, a no ser que se indique que es una modificación, y no la versión original.
+El texto de la licencia no tiene copyright, lo que permite su modificación. No obstante esto, puede no ser recomendable e incluso muchas veces dentro 
+del movimiento del software de código abierto desaconsejan el uso de este texto para una licencia, a no ser que se indique que es una modificación, y 
+no la versión original.
 
 La licencia MIT es muy parecida a la licencia BSD2 en cuanto a efectos.
+
+Debido a que MIT ha utilizado muchas licencias de software, la Free Software Foundation4 la considera una licencia ambigua. 
+La licencia MIT puede referirse a la licencia Expat (utilizada por Expat5 ) o a la licencia X11 (también llamada MIT/Consortium license) 
+utilizada por X Windows System. La licencia MIT publicada por la Open Source Initiative6 es la misma que la licencia Expat.
+
+A diferencia de la licencia Expat, las licencias X11 y MIT elegidas para Curses por la Free Software Foundation incluyen la siguiente cláusula:
+
+    Excepto lo contenido en este aviso, el nombre de los titulares con derecho de autor, no podrá ser utilizado para promover la venta, 
+uso u otras cuestiones relacionadas con el software sin previa autorización por escrito.
+
+La licencia MIT pone muy pocas restricciones en la reutilización de software, aunque no llega a ser sin restricciones como Dominio público.
+
+La licencia BSD incluye una cláusula que exige que toda la publicidad del Software sea notificada a sus autores.
+ Esta cláusula de publicidad esta presente en la licencia MIT usada por XFree867 .
+
+Los derechos otorgados al Usuario final en la licencia MIT, incluyen: el derecho a usar, copiar, modificar, fusionar, publicar, distribuir, 
+cambiar la licencia y/o vender el software. La licencia MIT reconoce específicamente el derecho a cambiar la licencia en el texto de la propia licencia 
+(un derecho que no se menciona en la Licencia BSD, que sólo conoce el derecho a redistribuir y reutilizar). El derecho para cambiar la licencia significa
+ que en la parte del software que esta bajo la licencia MIT se tiene el derecho a otorgar nuevas licencias antes de distribuir el software con licencia MIT.
+
+Al igual que la Licencia BSD, la licencia MIT no incluye una licencia de patente expresa. Ambas licencias se redactaron antes de que se pudiera
+ registrar legalmente una patente en los EEUU. No obstante, la Apache License versión 2.0 o superior es también permisiva e incluye la licencia de patente.
+
+La licencia BSD simplificada, conocida por ser utilizada por FreeBSD8 es prácticamente idéntica a la licencia MIT, ya que no contiene
+ cláusula de uso publicitario ni prohibición de uso promocional del nombre del poseedor de los derechos de copyright.
+
+La Licencia ISC9 es muy parecida también a la licencia MIT, pero con un lenguaje más sencillo.
+
+
+
+
+Esta licencia permite reutilizar el software así licenciado tanto para ser software libre como para ser software no libre, permitiendo 
+no liberar los cambios realizados al programa original.
+
+También permite licenciar dichos cambios con licencia BSD, GPL,10 u otra cualquiera que sea compatible
+ (es decir, que cumpla las cláusulas de distribución).
+
+Con esta licencia se tiene software libre. Ejemplos en los que podría interesar su aplicación serían las licencias duales
+, si se pretende difundir un estándar mediante una implementación de referencia, o si simplemente se pretende que el producto sea Libre 
+sin mayores consideraciones.
