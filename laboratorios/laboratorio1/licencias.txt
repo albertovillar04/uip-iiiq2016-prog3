@@ -1,0 +1,10 @@
+La licencia MIT es una de tantas licencias de software que se origina en el Instituto Tecnológico de Massachusetts .
+
+
+Esta licencia es una Licencia de software libre permisiva lo que significa que impone muy pocas limitaciones en la reutilización y por tanto posee 
+una excelente Compatibilidad de licencia. La licencia MIT permite reutilizar software dentro de Software propietario. Por otro lado, la licencia MIT es 
+compatible con muchas licencias Copyleft, como la GNU General Public License1 .
+
+El texto de la licencia no tiene copyright, lo que permite su modificación. No obstante esto, puede no ser recomendable e incluso muchas veces dentro del movimiento del software de código abierto desaconsejan el uso de este texto para una licencia, a no ser que se indique que es una modificación, y no la versión original.
+
+La licencia MIT es muy parecida a la licencia BSD2 en cuanto a efectos.
